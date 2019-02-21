@@ -1,0 +1,3 @@
+Le jeu se joue uniquement avec le clique gauche.
+
+J'ai passé approximativement 4h sur le gameplay, et 2h sur le polish et le debug.
